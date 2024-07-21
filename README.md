@@ -1,1 +1,1 @@
- # crown_of_throns_web
+ # crown_of_thorns_web
